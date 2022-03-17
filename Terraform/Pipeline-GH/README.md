@@ -12,6 +12,7 @@ Le token SAS doit ressembler à ce genre de chaine :  __sp=racwl&st=2022-03-11T1
 
 Copier le token SAS dans un secret GITHUB appelé **TOKENSASBACKEND**
 
+
 Procédure pour créer un secret GitHub : https://github.com/Azure/actions-workflow-samples/blob/master/assets/create-secrets-for-GitHub-workflows.md
 
 Déclencher manuellement le workflow GiHub
